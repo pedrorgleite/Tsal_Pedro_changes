@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-3
+Added Room: Name=TSAL_PL
