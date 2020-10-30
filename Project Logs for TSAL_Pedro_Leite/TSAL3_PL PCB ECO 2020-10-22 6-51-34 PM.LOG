@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+24V Pin=C1-1
+Removed Pin From Net: NetName=+24V Pin=R1-2
+Removed Pin From Net: NetName=+24V Pin=U1-8
+Added Pin To Net: NetName=RED_IN Pin=C1-1
+Added Pin To Net: NetName=RED_IN Pin=R1-2
+Added Pin To Net: NetName=RED_IN Pin=U1-8
+Added Member To Class: ClassName=TSAL_PL Member=Component D9 GREEN
+Added Room: Name=TSAL_PL
