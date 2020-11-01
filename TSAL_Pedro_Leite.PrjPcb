@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FHLGMDMM
 
 [Document6]
-DocumentPath=3DModel\TRANS_NVTFS015N04CTAG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NVUXNTME
-
-[Document7]
 DocumentPath=3DModel\2N7002 (1)\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,8 +139,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document8]
-DocumentPath=Tsal_PL.PcbDoc
+[Document7]
+DocumentPath=TSAL_PL_R1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YUMQFJFM
+DocumentUniqueId=OAKSTQVR
 
 [Configuration1]
 Name=Sources
