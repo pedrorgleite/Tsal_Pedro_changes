@@ -1,0 +1,113 @@
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=GND Pin=3-1
+Added Pin To Net: NetName=GND Pin=4-1
+Added Pin To Net: NetName=RED_IN Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=TRIG Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=GREEN_IN Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=+24V Pin=D14-1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=RED_IN Pin=D15-1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=GREEN_IN Pin=D16-1
+Added Pin To Net: NetName=GND Pin=D16-2
+Added Pin To Net: NetName=+24V Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D17-2
+Added Pin To Net: NetName=RED_IN Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=NetD15_2 Pin=J1-1
+Added Pin To Net: NetName=NetD14_2 Pin=J1-2
+Added Pin To Net: NetName=NetD13_2 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=DISCH Pin=R1-1
+Added Pin To Net: NetName=RED_IN Pin=R1-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Pin To Net: NetName=+24V Pin=R2-2
+Added Pin To Net: NetName=TRIG Pin=R3-1
+Added Pin To Net: NetName=DISCH Pin=R3-2
+Added Pin To Net: NetName=NetD12_2 Pin=R4-1
+Added Pin To Net: NetName=+24V Pin=R4-2
+Added Pin To Net: NetName=OUT Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=OUT Pin=R6-2
+Added Pin To Net: NetName=GREEN_IN Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GREEN_IN Pin=R8-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=TRIG Pin=U1-2
+Added Pin To Net: NetName=OUT Pin=U1-3
+Added Pin To Net: NetName=RED_IN Pin=U1-4
+Added Pin To Net: NetName=TRIG Pin=U1-6
+Added Pin To Net: NetName=DISCH Pin=U1-7
+Added Pin To Net: NetName=RED_IN Pin=U1-8
+Added Pin To Net: NetName=NetR5_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-3
+Added Pin To Net: NetName=NetR7_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetD7_1 Pin=U3-3
+Added Member To Class: ClassName=TSAL_PL Member=Component 2 M3
+Added Member To Class: ClassName=TSAL_PL Member=Component 3 M3
+Added Member To Class: ClassName=TSAL_PL Member=Component 4 M3
+Added Member To Class: ClassName=TSAL_PL Member=Component C1 0603
+Added Member To Class: ClassName=TSAL_PL Member=Component C2 X7R
+Added Member To Class: ClassName=TSAL_PL Member=Component D1 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D2 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D3 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D4 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D5 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D6 RED
+Added Member To Class: ClassName=TSAL_PL Member=Component D7 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D8 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D9 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D10 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D11 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D12 GREEN
+Added Member To Class: ClassName=TSAL_PL Member=Component D13 NRVTS260ESFT1G
+Added Member To Class: ClassName=TSAL_PL Member=Component D14 NRVTS260ESFT1G
+Added Member To Class: ClassName=TSAL_PL Member=Component D15 NRVTS260ESFT1G
+Added Member To Class: ClassName=TSAL_PL Member=Component D16 SMAJ6.0A
+Added Member To Class: ClassName=TSAL_PL Member=Component D17 SMAJ6.0A
+Added Member To Class: ClassName=TSAL_PL Member=Component D18 SMCJ24A
+Added Member To Class: ClassName=TSAL_PL Member=Component J1 1x4 Header
+Added Member To Class: ClassName=TSAL_PL Member=Component M? M3
+Added Member To Class: ClassName=TSAL_PL Member=Component R1 0603
+Added Member To Class: ClassName=TSAL_PL Member=Component R2 2010
+Added Member To Class: ClassName=TSAL_PL Member=Component R3 0603
+Added Member To Class: ClassName=TSAL_PL Member=Component R4 RL1220S-270-F
+Added Member To Class: ClassName=TSAL_PL Member=Component R5 0805
+Added Member To Class: ClassName=TSAL_PL Member=Component R6 0603
+Added Member To Class: ClassName=TSAL_PL Member=Component R7 0805
+Added Member To Class: ClassName=TSAL_PL Member=Component R8 0603
+Added Member To Class: ClassName=TSAL_PL Member=Component U1 555
+Added Member To Class: ClassName=TSAL_PL Member=Component U2 2N7002ET1G
+Added Member To Class: ClassName=TSAL_PL Member=Component U3 2N7002ET1G
